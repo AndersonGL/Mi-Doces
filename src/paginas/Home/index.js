@@ -36,7 +36,7 @@ export default function Home() {
                         <h2>Torta de Frango com catupiry</h2>
                         <span></span>
                         <p>
-                            " Aquela Torta delicosa feita com amor e carinho...bem recheada hum já deu aguá na boca".
+                            " Aquela Torta delicosa feita com amor e carinho, Bem recheada hum... já deu aguá na boca".
                         </p>
                     </div>
                     <img src="assets/torta-frango.png" alt="torta" />

@@ -24,24 +24,24 @@ export default function Salgados() {
           <div className="container-servicos">
 
             <div className="box-servico">
-              <img src="assets/consulta.png" alt="lorem ipsun" />
-              <h3>lorem ipsun</h3>
-              <p></p>
+              <img src="assets/torta-frango.png" alt="lorem ipsun" />
+              <h3>Torta de Frango</h3>
+              <p>R$ 7,00 pedaço</p>
             </div>
             <div className="box-servico">
-              <img src="assets/consulta.png" alt="lorem ipsun" />
-              <h3>lorem ipsun</h3>
-              <p></p>
+              <img src="assets/torta-carne.png" alt="lorem ipsun" />
+              <h3>Torta de Carne</h3>
+              <p>R$ 7,00 pedaço</p>
             </div>
             <div className="box-servico">
-              <img src="assets/consulta.png" alt="lorem ipsun" />
-              <h3>lorem ipsun</h3>
-              <p></p>
+              <img src="assets/natural-atum.png" alt="lorem ipsun" />
+              <h3>Sanduiche Natural de Atum</h3>
+              <p>R$ 7,00 unid</p>
             </div>
             <div className="box-servico">
-              <img src="assets/consulta.png" alt="lorem ipsun" />
-              <h3>lorem ipsun</h3>
-              <p></p>
+              <img src="assets/natural-frango.png" alt="lorem ipsun" />
+              <h3>Sanduiche Natural de Frango</h3>
+              <p>R$ 7,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/consulta.png" alt="lorem ipsun" />

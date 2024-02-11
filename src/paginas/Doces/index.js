@@ -28,14 +28,14 @@ export default function Doces() {
               <p>R$ 25,00 Cento</p>
             </div>
             <div className="box-servico">
-              <img src="assets/consulta.png" alt="lorem ipsun" />
-              <h3>lorem ipsun</h3>
-              <p></p>
+              <img src="assets/brigadeiro.png" alt="lorem ipsun" />
+              <h3>Brigaderio de chocolate meio-amargo e granulado</h3>
+              <p>R$ 5,00 unid</p>
             </div>
             <div className="box-servico">
-              <img src="assets/consulta.png" alt="lorem ipsun" />
-              <h3>lorem ipsun</h3>
-              <p></p>
+              <img src="assets/beijinho.png" alt="lorem ipsun" />
+              <h3>beijinho com coco ralado</h3>
+              <p>R$ 5,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/consulta.png" alt="lorem ipsun" />
