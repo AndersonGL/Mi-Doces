@@ -14,7 +14,8 @@ export default function Footer() {
             <div>
                 <h3>CONTATO</h3>
                 <p>midoces88@gmail.com</p>
-                <p>Tel: (11)934455833 (Micheli)</p>
+                <p>Tel: (11)934455833 (pix)</p>
+                <p>Micheli Aparcida de Souza</p>
             </div>
             <div>
                 <h3>HORÁRIOS</h3>

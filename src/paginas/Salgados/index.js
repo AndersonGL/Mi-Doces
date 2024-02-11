@@ -3,7 +3,7 @@ import Footer from "../../componentes/Footer";
 
 import './style.css';
 
-export default function Servicos() {
+export default function Salgados() {
 
   return (
     <div>
@@ -13,7 +13,7 @@ export default function Servicos() {
       <main>
         <section className="secao-banner-servicos">
           <div className="titulo-banner-servicos">
-            <h1>NOSSOS DOCES</h1>
+            <h1>NOSSOS SALGADOS</h1>
           </div>
         </section>
 
@@ -22,6 +22,7 @@ export default function Servicos() {
 
 
           <div className="container-servicos">
+
             <div className="box-servico">
               <img src="assets/consulta.png" alt="lorem ipsun" />
               <h3>lorem ipsun</h3>
@@ -134,6 +135,7 @@ export default function Servicos() {
 
 
       <Footer />
+      
     </div>
   )
 

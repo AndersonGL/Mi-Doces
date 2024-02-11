@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Home from "../paginas/Home";
-import Servicos from "../paginas/Servicos";
-import Sobre from "../paginas/Sobre";
+import Doces from "../paginas/Doces";
+import Salgados from "../paginas/Salgados";
 
 export default function Rotas() {
 
@@ -10,8 +10,8 @@ return(
     <BrowserRouter>
         <Routes>
             <Route path='/' element={<Home />} />
-            <Route path='servicos' element={<Servicos />} />
-            <Route path='sobre' element={<Sobre />} />
+            <Route path='doces' element={<Doces />} />
+            <Route path='salgados' element={<Salgados />} />
         </Routes>
     </BrowserRouter>
 

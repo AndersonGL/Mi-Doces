@@ -46,7 +46,7 @@ export default function Home() {
                 <section className="secao-sobre-nos">
                     <img src="assets/brigadeiro.png" alt="brigadeiro" />
                     <div className="texto-secao-sobre-nos">
-                        <h2>Brigadeiro</h2>
+                        <h2>Brigadeiros</h2>
                         <span></span>
                         <p>
                             “Delicioso Choclocate meio-amargo e granulados gourmet !!!”
