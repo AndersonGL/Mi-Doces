@@ -17,7 +17,7 @@ export default function Home() {
             <main>
                 <section className="secao-banner">
                     <div className="texto-banner">
-                        <h1> MI DOCES E SALGADOS</h1>
+                        <h1> MI DOCES E SALGADOS 1</h1>
                     </div>
                 </section>
 
