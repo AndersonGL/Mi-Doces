@@ -26,7 +26,7 @@ export default function Home() {
                     <div className="texto-secao-nossos-servicos">
                         <h2>Bolinho de Chuva</h2>
                         <p>
-                            “Receita da vó sem igual !!!”        </p>
+                            “Receita de vó sem igual !!!”        </p>
 
                     </div>
                 </section>
