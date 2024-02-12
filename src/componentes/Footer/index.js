@@ -15,12 +15,12 @@ export default function Footer() {
                 <h3>CONTATO</h3>
                 <p>midoces88@gmail.com</p>
                 <p>Tel: (11)934455833 (pix)</p>
-                <p>Micheli Aparcida de Souza</p>
+                <p>Micheli Aparecida de Souza</p>
             </div>
             <div>
                 <h3>HORÁRIOS</h3>
                 <p>ABERTO DE SEGUNDA Á SÁBADO</p>
-                <p>08:00hs ás 20:00hs</p>
+                <p>10:00hs ás 22:00hs</p>
             </div>
         </div>
         <div className='limitar-secao direito-autoral'>
