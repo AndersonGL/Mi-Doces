@@ -38,6 +38,11 @@ export default function Doces() {
               <p>R$ 5,00 unid</p>
             </div>
             <div className="box-servico">
+              <img src="assets/brigadeiro-beijinho.png" alt="Brigadeiro e Beijinho" />
+              <h3>Brigadeiro + Beijinho</h3>
+              <p>R$ 4,00</p>
+            </div>
+            <div className="box-servico">
               <img src="assets/trufa-de-café.png" alt= "trufa de café" />
               <h3>Trufa de Café</h3>
               <p>R$ 3,00</p>
@@ -73,8 +78,8 @@ export default function Doces() {
               <p>R$ 3,00</p>
             </div>
             <div className="box-servico">
-              <img src="assets/trufa-doce-de-leite.png" alt="lorem ipsun" />
-              <h3>Trufa Doce-de-Leite</h3>
+              <img src="assets/trufa-doce-leite.png" alt="lorem ipsun" />
+              <h3>Trufa Doce de Leite</h3>
               <p>R$ 3,00</p>
             </div>
             <div className="box-servico">
@@ -126,6 +131,16 @@ export default function Doces() {
               <img src="assets/geladinho-paçoca.png" alt="Geladinho Paçoca" />
               <h3>Geladinho de paçoca Gourmet</h3>
               <p>R$ 4,00</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/mousse-morango.png" alt="Geladinho de ninho com nutella" />
+              <h3>Mousse de Morango</h3>
+              <p>R$ 5,00</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/mousse-maracuja.png" alt="Geladinho Paçoca" />
+              <h3>Mousse de Maracujá</h3>
+              <p>R$ 5,00</p>
             </div>
           </div>
         </section>
