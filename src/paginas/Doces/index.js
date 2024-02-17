@@ -19,14 +19,25 @@ export default function Doces() {
 
         <section className="limitar-secao secao-servicos">
 
-
-
           <div className="container-servicos">
             <div className="box-servico">
               <img src="assets/bolinho-de-chuva.png" alt="bolinho" />
               <h3>Bolinho de chuva com canela ou leite ninho</h3>
               <p>R$ 25,00 Cento</p>
             </div>
+            <div className="box-servico">
+              <img src="assets/bolo-caseiro.png" alt="bolinho" />
+              <h3>Bolo Caseiro</h3>
+              <p> Sabores: coco, chocolate, fubá cremoso, fubá com goiabada, laranja, cenoura... </p>
+              <p>R$ 30,00 Cento</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/bolo-alagado.png" alt="bolinho" />
+              <h3>Bolo Alagado</h3>
+              <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
+              <p>R$ 60,00 KG</p>
+            </div>
+      
             <div className="box-servico">
               <img src="assets/brigadeiro.png" alt="lorem ipsun" />
               <h3>Brigaderio de chocolate meio-amargo e granulado</h3>
