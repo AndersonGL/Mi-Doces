@@ -37,7 +37,7 @@ export default function Doces() {
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
               <p>R$ 60,00 KG</p>
             </div>
-      
+
             <div className="box-servico">
               <img src="assets/brigadeiro.png" alt="lorem ipsun" />
               <h3>Brigaderio de chocolate meio-amargo e granulado</h3>
@@ -54,7 +54,7 @@ export default function Doces() {
               <p>R$ 4,00</p>
             </div>
             <div className="box-servico">
-              <img src="assets/trufa-de-café.png" alt= "trufa de café" />
+              <img src="assets/trufa-de-café.png" alt="trufa de café" />
               <h3>Trufa de Café</h3>
               <p>R$ 3,00</p>
             </div>
@@ -155,16 +155,17 @@ export default function Doces() {
             </div>
           </div>
         </section>
-
+        
         <section>
-          <a href='https://wa.me/5511974559801?text=Ol%C3%A1%21%21%21+aretran+quero+tirar+uma+d%C3%BAvida..."'><button className="whatsapp"></button></a>
+          <a href='https://wa.me/5511934455833?text=Ol%C3%A1,%20Fa%C3%A7as%20seu%20pedido%20!!!'><button className="whatsapp"></button></a>
         </section>
 
+      
       </main>
 
 
       <Footer />
-      
+
     </div>
   )
 
