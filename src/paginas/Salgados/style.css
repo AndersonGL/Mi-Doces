@@ -70,6 +70,22 @@ main {
   object-fit: cover;
 }
 
+.whatsapp {
+
+  position: fixed;
+  bottom: 60px;
+  right: -1px;
+  z-index: 100;
+  width: 200px; 
+  height: 70px;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #34af23;
+  background-image: url('/public/assets/whatsapp.png');
+  border: none;
+}
+
 @media screen and (max-width: 768px) {
   .titulo-banner-sobre h1 {
     font-size: 60px;

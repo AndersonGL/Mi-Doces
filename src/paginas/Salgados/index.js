@@ -88,15 +88,19 @@ export default function Salgados() {
               <h3>Bolinho de Queijo</h3>
               <p>65,00 cento</p>
             </div>
-           
+
           </div>
+        </section>
+
+        <section>
+          <a href='https://wa.me/5511974559801?text=Ol%C3%A1%21%21%21+aretran+quero+tirar+uma+d%C3%BAvida..."'><button className="whatsapp"></button></a>
         </section>
 
       </main>
 
 
       <Footer />
-      
+
     </div>
   )
 
