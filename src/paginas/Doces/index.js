@@ -26,25 +26,31 @@ export default function Doces() {
               <p>R$ 25,00 Cento</p>
             </div>
             <div className="box-servico">
-              <img src="assets/bolo-caseiro.png" alt="bolinho" />
+              <img src="assets/bolo-caseiro.png" alt="bolo caseiro" />
               <h3>Bolo Caseiro</h3>
               <p> Sabores: coco, chocolate, fubá cremoso, fubá com goiabada, laranja, cenoura... </p>
               <p>R$ 30,00 Cento</p>
             </div>
             <div className="box-servico">
-              <img src="assets/bolo-alagado.png" alt="bolinho" />
+              <img src="assets/bolo.png" alt="bolo recheado" />
+              <h3>Bolo Reachado</h3>
+              <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
+              <p>R$ 60,00 KG</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/bolo-alagado.png" alt="bolo alagado" />
               <h3>Bolo Alagado</h3>
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
               <p>R$ 60,00 KG</p>
             </div>
 
             <div className="box-servico">
-              <img src="assets/brigadeiro.png" alt="lorem ipsun" />
+              <img src="assets/brigadeiro.png" alt="brigadeiro de chocolate" />
               <h3>Brigaderio de chocolate meio-amargo e granulado</h3>
               <p>R$ 5,00 unid</p>
             </div>
             <div className="box-servico">
-              <img src="assets/beijinho.png" alt="lorem ipsun" />
+              <img src="assets/beijinho.png" alt="brigadeiro de beijinho" />
               <h3>beijinho com coco ralado</h3>
               <p>R$ 5,00 unid</p>
             </div>
