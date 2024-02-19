@@ -26,7 +26,7 @@ export default function Home() {
                     <div className="texto-secao-nossos-servicos">
                         <h2>Bolinho de Chuva</h2>
                         <p>
-                            “Receita de vó sem igual !!!”        </p>
+                            “Receita de vó sem igual”        </p>
 
                     </div>
                 </section>
@@ -36,7 +36,7 @@ export default function Home() {
                         <h2>Torta de Frango com catupiry</h2>
                         <span></span>
                         <p>
-                            " Aquela Torta delicosa feita com amor e carinho, Bem recheada hum... já deu aguá na boca".
+                            " Aquela Torta delicosa feita com amor e carinho, Bem recheada hum... já deu aguá na boca."
                         </p>
                     </div>
                     <img src="assets/torta-frango.png" alt="torta" />
@@ -49,7 +49,7 @@ export default function Home() {
                         <h2>Brigadeiros</h2>
                         <span></span>
                         <p>
-                            “Delicioso Choclocate meio-amargo e granulados gourmet !!!”
+                            “Delicioso Choclocate meio-amargo e granulados gourmet”
                         </p>
                     </div>
                 </section>
