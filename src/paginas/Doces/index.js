@@ -57,7 +57,7 @@ export default function Doces() {
             <div className="box-servico">
               <img src="assets/brigadeiro-beijinho.png" alt="Brigadeiro e Beijinho" />
               <h3>Brigadeiro + Beijinho</h3>
-              <p>R$ 4,00</p>
+              <p>R$ 5,00</p>
             </div>
             <div className="box-servico">
               <img src="assets/trufa-de-café.png" alt="trufa de café" />
