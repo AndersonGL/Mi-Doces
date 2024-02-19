@@ -27,19 +27,19 @@ export default function Doces() {
             </div>
             <div className="box-servico">
               <img src="assets/bolo-caseiro.png" alt="bolo caseiro" />
-              <h3>Bolo Caseiro</h3>
+              <h3>Bolos Caseiros</h3>
               <p> Sabores: coco, chocolate, fubá cremoso, fubá com goiabada, laranja, cenoura... </p>
               <p>R$ 30,00 Cento</p>
             </div>
             <div className="box-servico">
               <img src="assets/bolo.png" alt="bolo recheado" />
-              <h3>Bolo Reachado</h3>
+              <h3>Bolos Reachados</h3>
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
               <p>R$ 60,00 KG</p>
             </div>
             <div className="box-servico">
               <img src="assets/bolo-alagado.png" alt="bolo alagado" />
-              <h3>Bolo Alagado</h3>
+              <h3>Bolos Alagados</h3>
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
               <p>R$ 60,00 KG</p>
             </div>
