@@ -13,7 +13,7 @@ export default function Doces() {
       <main>
         <section className="secao-banner-servicos">
           <div className="titulo-banner-servicos">
-            <h1>NOSSOS DOCES</h1>
+            <h1>NOSSOS DOCESS</h1>
           </div>
         </section>
 
