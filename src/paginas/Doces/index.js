@@ -42,6 +42,7 @@ export default function Doces() {
               <h3>Bolos Alagados</h3>
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
               <p>R$ 60,00 kg</p>
+              <p></p>
             </div>
 
             <div className="box-servico">
