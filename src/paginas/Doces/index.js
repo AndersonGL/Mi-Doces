@@ -41,8 +41,8 @@ export default function Doces() {
               <img src="assets/bolo-alagado.png" alt="bolo alagado" />
               <h3>Bolos Alagados</h3>
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
-              <p>R$ 60,00 kg</p>
-              <p></p>
+              <p>R$ 60,00 kgg</p>
+          
             </div>
 
             <div className="box-servico">
