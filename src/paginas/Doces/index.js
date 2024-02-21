@@ -34,7 +34,7 @@ export default function Doces() {
             <div className="box-servico">
               <img src="assets/bolo.png" alt="bolo recheado" />
               <h3>Bolos Recheados</h3>
-              <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
+              <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro, chocolate...</p>
               <p>R$ 60,00 kg</p>
             </div>
             <div className="box-servico">
