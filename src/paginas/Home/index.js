@@ -54,7 +54,7 @@ export default function Home() {
                     </div>
                 </section>
                 <section>
-          <a href='https://wa.me/5511934455833?><button className="whatsapp"></button></a>
+          <a href="https://wa.me/5511934455833?"><button className="whatsapp"></button></a>
         </section>
             </main>
 
