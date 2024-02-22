@@ -52,7 +52,7 @@ export default function Doces() {
             </div>
             <div className="box-servico">
               <img src="assets/beijinho.png" alt="brigadeiro de beijinho" />
-              <h3>beijinho com coco ralado</h3>
+              <h3>Beijinho com coco ralado</h3>
               <p>R$ 5,00 unid</p>
             </div>
             <div className="box-servico">
