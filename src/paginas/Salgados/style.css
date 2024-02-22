@@ -74,15 +74,15 @@ main {
 
   position: fixed;
   bottom: 60px;
-  right: 10px;
+  right: 0px;
   z-index: 100;
-  width: 65px; 
+  width: 66px; 
   height: 70px;
   border-radius: 50px;
   text-align: center;
   font-size: 1.5em;
   background-color:#34af23 ;
-  background-image: url('/public/assets/whatsapp1.png');
+  background-image: url('/public/assets/whatsapp.png');
   border: none;
 }
 
