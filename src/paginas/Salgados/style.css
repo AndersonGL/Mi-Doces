@@ -76,13 +76,13 @@ main {
   bottom: 60px;
   right: 10px;
   z-index: 100;
-  width: 200px; 
-  height: 70px;
+  width: 350px; 
+  height: 130px;
   border-radius: 50px;
   text-align: center;
   font-size: 1.5em;
   background-color:#34af23 ;
-  background-image: url('/public/assets/whatsapp.png');
+  background-image: url('/public/assets/whatsapp.webp');
   border: none;
 }
 
