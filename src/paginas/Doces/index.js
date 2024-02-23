@@ -13,7 +13,7 @@ export default function Doces() {
       <main>
         <section className="secao-banner-servicos">
           <div className="titulo-banner-servicos">
-            <h1>NOSSOS DOCESS</h1>
+            <h1>NOSSOS DOCES</h1>
           </div>
         </section>
 
@@ -164,7 +164,7 @@ export default function Doces() {
         </section>
         
         <section>
-          <a href='https://wa.me/5511934455833?text=Ol%C3%A1,%20Fa%C3%A7as%20seu%20pedido%20!!!'><button className="whatsapp"></button></a>
+          <a href='https://wa.me/5511934455833?'><button className="whatsapp"></button></a>
         </section>
 
       
