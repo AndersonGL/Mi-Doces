@@ -59,6 +59,11 @@ export default function Salgados() {
               <p>15,00 (250ml)</p>
             </div>
             <div className="box-servico">
+              <img src="assets/caldo-feijao.webp" alt="caldo de feijão" />
+              <h3>Caldo de Feijão </h3>
+              <p>15,00 (250ml)</p>
+            </div>
+            <div className="box-servico">
               <img src="assets/frango.png" alt="pastel de frango" />
               <h3>Pastel Frango</h3>
               <p>R$ 8,00 unid</p>
