@@ -33,7 +33,11 @@ export default function Salgados() {
               <h3>Torta de Carne</h3>
               <p>R$ 7,00 pedaço</p>
             </div>
-            <div className="box-servico">
+ <div className="box-servico">
+              <img src="assets/torta-frios.png" alt="torta de frios" />
+              <h3>Torta de Frios</h3>
+              <p>R$ 7,00 pedaço</p>
+            </div>            <div className="box-servico">
               <img src="assets/natural-atum.png" alt=" sanduiche de atum" />
               <h3>Sanduiche Natural de Atum</h3>
               <p>R$ 7,00 unid</p>
