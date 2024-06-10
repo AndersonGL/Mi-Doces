@@ -61,6 +61,11 @@ export default function Doces() {
               <p>R$ 5,00</p>
             </div>
             <div className="box-servico">
+              <img src="assets/trufa-tradicional.png" alt="trufa tradicional" />
+              <h3>Trufa Tradicional</h3>
+              <p>R$ 3,00</p>
+            </div>
+            <div className="box-servico">
               <img src="assets/trufa-de-café.png" alt="trufa de café" />
               <h3>Trufa de Café</h3>
               <p>R$ 3,00</p>
