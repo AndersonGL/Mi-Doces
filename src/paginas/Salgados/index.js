@@ -40,12 +40,12 @@ export default function Salgados() {
             </div>            <div className="box-servico">
               <img src="assets/natural-atum.png" alt=" sanduiche de atum" />
               <h3>Sanduiche Natural de Atum</h3>
-              <p>R$ 7,00 unid</p>
+              <p>R$ 9,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/natural-frango.png" alt="sanduiche de frango" />
               <h3>Sanduiche Natural de Frango</h3>
-              <p>R$ 7,00 unid</p>
+              <p>R$ 9,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/mandioquinha.png" alt="caldo de mandioquinha" />
