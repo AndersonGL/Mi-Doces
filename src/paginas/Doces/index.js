@@ -23,42 +23,42 @@ export default function Doces() {
             <div className="box-servico">
               <img src="assets/bolinho-de-chuva.png" alt="bolinho" />
               <h3>Bolinho de chuva com canela ou leite ninho</h3>
-              <p>R$ 25,00 Cento</p>
+              <p>R$ 30,00 Cento</p>
             </div>
             <div className="box-servico">
               <img src="assets/bolo-caseiro.png" alt="bolo caseiro" />
               <h3>Bolos Caseiros</h3>
               <p> Sabores: coco, chocolate, fubá cremoso, fubá com goiabada, laranja, cenoura... </p>
-              <p>R$ 30,00 unid</p>
+              <p>R$ 35,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/bolo.png" alt="bolo recheado" />
               <h3>Bolos Recheados</h3>
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro, chocolate...</p>
-              <p>R$ 60,00 kg</p>
+              <p>R$ 65,00 kg</p>
             </div>
             <div className="box-servico">
               <img src="assets/bolo-alagado.png" alt="bolo alagado" />
               <h3>Bolos Alagados</h3>
               <p>Sabores: préstigio, três leites, ninho com morango, maracujá, abacaxi, brigadeiro...</p>
-              <p>R$ 60,00 kg</p>
+              <p>R$ 65,00 kg</p>
           
             </div>
 
             <div className="box-servico">
               <img src="assets/brigadeiro.png" alt="brigadeiro de chocolate" />
               <h3>Brigaderio de chocolate meio-amargo e granulado</h3>
-              <p>R$ 5,00 unid</p>
+              <p>R$ 6,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/beijinho.png" alt="brigadeiro de beijinho" />
               <h3>Beijinho com coco ralado</h3>
-              <p>R$ 5,00 unid</p>
+              <p>R$ 6,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/brigadeiro-beijinho.png" alt="Brigadeiro e Beijinho" />
               <h3>Brigadeiro + Beijinho</h3>
-              <p>R$ 5,00</p>
+              <p>R$ 6,00</p>
             </div>
             <div className="box-servico">
               <img src="assets/trufa-tradicional.png" alt="trufa tradicional" />
