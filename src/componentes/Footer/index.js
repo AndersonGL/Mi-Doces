@@ -8,8 +8,8 @@ export default function Footer() {
           <img src='assets/midoces.png' alt='logomarca'/>
           <div>
              <h3>ENDEREÇO</h3>
-             <p>Rua João Peres Calhamares n° 557</p>
-             <p>Jardim Sapopemba - São Paulo - SP</p>
+             <p>Rua Tejó n° 172</p>
+             <p>Pilar Velho - Ribeirão Pires- SP</p>
             </div>
             <div>
                 <h3>CONTATO</h3>
