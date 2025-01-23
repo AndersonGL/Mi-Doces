@@ -2,6 +2,6 @@
 
 * **HTML**
 * **CSS**
-* **JavaScript**
-* **React ( Componentes e Spas ).**
+* **JAVASCRIPT**
+* **REACT ( CRIANDO COMPONETES E SPAS.)**
 
