@@ -1,7 +1,7 @@
 
 # 🍰 Mi Doces & Salgados
 
-**Mi Doces & Salgados** é um site institucional desenvolvido para divulgar e promover os serviços da confeitaria e salgaderia artesanal **Mi**, com foco em cardápio, encomendas, contato e apresentação visual irresistível dos produtos.
+**Mi Doces & Salgados** é um site institucional desenvolvido para divulgar e promover os serviços da confeitaria e salgaderia artesanal sua delícias, com foco em cardápio, encomendas, contato e apresentação visual irresistível dos produtos.
 
 ---
 
