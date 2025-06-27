@@ -1,62 +1,57 @@
-Projeto: Site Estático para Confeitaria Mi Doces
 
-Descrição
+# 🍰 Mi Doces & Salgados
 
-Este projeto consiste em um site estático desenvolvido para a Confeitaria Mi Doces. O site foi criado utilizando o framework React, com foco em oferecer uma experiência moderna e intuitiva para os usuários. Uma funcionalidade principal do site é a integração de um botão com link direto para o WhatsApp, facilitando o contato dos clientes com a confeitaria.
+**Mi Doces & Salgados** é um site institucional desenvolvido para divulgar e promover os serviços da confeitaria e salgaderia artesanal **Mi**, com foco em cardápio, encomendas, contato e apresentação visual irresistível dos produtos.
 
-Tecnologias Utilizadas
+---
 
-HTML5: Estruturação semântica das páginas.
+## 💡 Objetivo
 
-CSS3: Estilização responsiva e moderna do layout.
+O projeto tem como objetivo proporcionar uma experiência agradável ao usuário, com navegação fluida, design moderno e responsivo, além de facilitar o contato direto para encomendas de doces e salgados.
 
-JavaScript (ES6+): Lógica e interatividade do site.
+---
 
-React: Desenvolvimento de componentes reutilizáveis e criação de uma SPA (Single Page Application) eficiente.
+## 🚀 Tecnologias Utilizadas
 
+- ⚛️ **React** — Biblioteca JavaScript para construção da interface
+- 🛠️ **JavaScript (ES6+)** — Lógica da aplicação e interações
+- 🧱 **HTML5** — Estruturação do conteúdo
+- 🎨 **CSS3** — Estilização com foco em responsividade e elegância
+- 📦 **Vite / Webpack** — Empacotadores para build otimizada (opcional)
 
-Funcionalidades
+---
 
-Site estático com carregamento rápido.
+## ✨ Funcionalidades
 
-Botão de contato direto via WhatsApp para atendimento ágil.
+- Página inicial com apresentação institucional
+- Galeria de produtos com fotos e categorias
+- Sessão de contato via formulário e WhatsApp
+- Navegação fluida com SPA (Single Page Application)
+- Design 100% responsivo para dispositivos móveis
 
-Navegação fluida com componentes React.
+---
 
-Design responsivo para diferentes dispositivos.
+## 🖼️ Layout / UX
 
+Interface leve, agradável e visualmente atrativa, com destaque para:
 
-Como Executar o Projeto
+- **Cores suaves** e tipografia personalizada
+- **Imagens de alta qualidade** dos produtos
+- **Botões de ação** bem posicionados (WhatsApp, Instagram, etc.)
 
-1. Clone o repositório:
+---
 
-git clone <URL_DO_REPOSITÓRIO>
+## 📁 Estrutura do Projeto
 
-
-2. Instale as dependências:
-
-npm install
-
-
-3. Inicie o servidor de desenvolvimento:
-
-npm start
-
-
-4. Abra o navegador e acesse:
-
-http://localhost:3000
-
-
-
-Estrutura do Projeto
-
-/src
-  /components    # Componentes React reutilizáveis
-  /assets       # Imagens e recursos estáticos
-  App.js        # Componente principal
-  index.js      # Entrada da aplicação
-
-Contato
-
-Para dúvidas ou sugestões, entre em contato pelo WhatsApp através do botão no site ou envie um e-mail para contato@midoces.com.
+```bash
+mi-doces-e-salgados/
+├── public/
+│   └── imagens/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+└── package.json
