@@ -20,7 +20,7 @@ export default function Footer() {
             <div>
                 <h3>HORÁRIOS</h3>
                 <p>ABERTO DE SEGUNDA Á SÁBADO</p>
-                <p>10:00hs ás 22:00hs</p>
+                <p>14:00hs ás 22:00hs</p>
             </div>
         </div>
         <div className='limitar-secao direito-autoral'>
