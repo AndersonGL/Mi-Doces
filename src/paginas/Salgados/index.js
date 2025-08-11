@@ -26,26 +26,26 @@ export default function Salgados() {
             <div className="box-servico">
               <img src="assets/torta-frango.png" alt="torta de frango" />
               <h3>Torta de Frango</h3>
-              <p>R$ 7,00 pedaço</p>
+              <p>R$ 8,00 pedaço</p>
             </div>
             <div className="box-servico">
               <img src="assets/torta-carne.png" alt="torta de carne" />
               <h3>Torta de Carne</h3>
-              <p>R$ 7,00 pedaço</p>
+              <p>R$ 8,00 pedaço</p>
             </div>
  <div className="box-servico">
               <img src="assets/torta-frios.png" alt="torta de frios" />
               <h3>Torta de Frios</h3>
-              <p>R$ 7,00 pedaço</p>
+              <p>R$ 8,00 pedaço</p>
             </div>            <div className="box-servico">
               <img src="assets/natural-atum.png" alt=" sanduiche de atum" />
               <h3>Sanduiche Natural de Atum</h3>
-              <p>R$ 9,00 unid</p>
+              <p>R$ 10,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/natural-frango.png" alt="sanduiche de frango" />
               <h3>Sanduiche Natural de Frango</h3>
-              <p>R$ 9,00 unid</p>
+              <p>R$ 10,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/mandioquinha.png" alt="caldo de mandioquinha" />
@@ -70,32 +70,32 @@ export default function Salgados() {
             <div className="box-servico">
               <img src="assets/frango.png" alt="pastel de frango" />
               <h3>Pastel Frango</h3>
-              <p>R$ 8,00 unid</p>
+              <p>R$ 12,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/carne.png" alt="pastel de carne" />
               <h3>Pastel de Carne </h3>
-              <p>8,00 unid</p>
+              <p>12,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/queijo.png" alt="pastel queijo" />
               <h3>Pastel de Queijo</h3>
-              <p>8,00 unid</p>
+              <p>12,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/bauru.png" alt="pastel bauru" />
               <h3>Pastel de Bauru</h3>
-              <p>8,00 unid</p>
+              <p>12,00 unid</p>
             </div>
             <div className="box-servico">
               <img src="assets/coxinha.png" alt="coxinha" />
               <h3>Coxinha</h3>
-              <p>65,00 cento</p>
+              <p>70,00 cento</p>
             </div>
             <div className="box-servico">
               <img src="assets/bolinho.png" alt="bolinho de queijo" />
               <h3>Bolinho de Queijo</h3>
-              <p>65,00 cento</p>
+              <p>70,00 cento</p>
             </div>
 
           </div>
